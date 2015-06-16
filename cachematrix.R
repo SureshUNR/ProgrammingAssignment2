@@ -2,6 +2,8 @@
 ## functions do
 
 ## Write a short comment describing this function
+## Testing a commit.
+
 
 makeCacheMatrix <- function(x = matrix()) {
 
